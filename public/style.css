@@ -1,0 +1,35 @@
+/* .first{
+    display: inline-flex;
+    text-align: center;
+} */
+.second{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.so {
+    width: 30px;
+    padding-right: 10px;
+} 
+.one{
+    display: inline-flex;
+    padding-left: 800px;    
+}
+.bott{
+    height: 200px;
+    background-color: black;
+}
+.copy{
+    background-color:#1a66ff;
+    height: 50px;
+}
+.copy1{
+    padding-left: 200px;
+    color: white;
+    padding-top:10px;
+}
+.cont{
+    color: white;
+    padding-left: 200px;
+}
+
